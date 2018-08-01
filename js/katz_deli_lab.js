@@ -74,3 +74,5 @@ function currentLine(line){
 }
 
 }
+
+*end
